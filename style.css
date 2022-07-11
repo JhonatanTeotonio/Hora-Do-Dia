@@ -1,0 +1,33 @@
+body{
+    background: #5081db;
+    min-height: 100vh;
+    font: normal 15pt Arial;
+}
+
+header{
+    color: #fffbf5;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+
+
+section{
+    background: #fffbf5;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.137);
+}
+
+footer{
+    color: wheat;
+    text-align: center;
+    font-style: italic;
+} 
+
+div{
+    text-align: center;
+    padding: 8px;
+}
